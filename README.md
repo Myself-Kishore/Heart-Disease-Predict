@@ -14,7 +14,7 @@ _**Key Features :**_
 
 **Data Storage :** The application can save user inputs and predictions to a MySQL database for future reference.
 
-_**Technology Stack:**_
+_**Technology Stack**_
 
 _**Programming Language :**_ Python
 _**Libraries :**_ Tkinter for GUI, Scikit-learn for machine learning, Matplotlib for data visualization, and MySQL for data storage.
