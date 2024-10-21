@@ -4,7 +4,7 @@ _**Overview :**_ Developed a machine learning-based application that predicts th
 
 _**Key Features :**_
 
-**User Input :** The application collects essential user data, including age, gender, blood pressure, cholesterol levels, and other health indicators through a user-friendly GUI.
+**User Input :** The application collects essential user data, including age, sex, chest pain type (cp), resting blood pressure (trestbps), serum cholesterol (chol), fasting blood sugar (fbs), resting electrocardiographic results (restecg), maximum heart rate (thalach), exercise induced angina (exang), oldpeak, slope, number of major vessels (ca), thalassemia (thal), and target (presence or absence of heart disease) through a user-friendly GUI.
 
 **Data Visualization :** Interactive graphs display critical parameters, enabling users to understand their health metrics better.
 
